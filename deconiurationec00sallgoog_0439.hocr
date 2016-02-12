@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deconiurationec00sallgoog_0439.png"; bbox 0 0 2664 4674; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 125 1300 951 1402">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 125 1300 951 1402">
+     <span class='ocr_line' id='line_1_1' title="bbox 125 1300 951 1402; baseline -0.008 -21"><span class='ocrx_word' id='word_1_1' title='bbox 125 1310 133 1325; x_wconf 70' lang='grc'><strong>“</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 246 1303 392 1381; x_wconf 82' lang='lat' dir='ltr'><strong>Caiu&#39;s</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 436 1304 703 1383; x_wconf 79' lang='lat' dir='ltr'><strong>Sallustius</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 748 1300 951 1402; x_wconf 82' lang='lat' dir='ltr'>Crispus</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 480 1547 738 1615">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 480 1547 738 1615">
+     <span class='ocr_line' id='line_1_2' title="bbox 480 1547 738 1615; baseline -0.016 -13"><span class='ocrx_word' id='word_1_5' title='bbox 480 1608 482 1615; x_wconf 55' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 515 1563 583 1604; x_wconf 83' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_7' title='bbox 607 1547 673 1602; x_wconf 75' lang='lat' dir='ltr'>dor</span> <span class='ocrx_word' id='word_1_8' title='bbox 736 1547 738 1554; x_wconf 83' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 63 1704 1304 1939">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 63 1704 1304 1939">
+     <span class='ocr_line' id='line_1_3' title="bbox 63 1704 1304 1939; baseline -0.009 -51"><span class='ocrx_word' id='word_1_9' title='bbox 63 1746 603 1930; x_wconf 63' lang='lat' dir='ltr'><strong>Versehwfirung</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 640 1750 771 1882; x_wconf 84' lang='lat' dir='ltr'>¹des</span> <span class='ocrx_word' id='word_1_11' title='bbox 821 1747 1130 1939; x_wconf 51' lang='lat' dir='ltr'>Catilina</span> <span class='ocrx_word' id='word_1_12' title='bbox 1242 1848 1246 1857; x_wconf 78' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1302 1704 1304 1706; x_wconf 18' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 447 2243 751 2275">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 447 2243 751 2275">
+     <span class='ocr_line' id='line_1_4' title="bbox 447 2243 751 2275; baseline -0.026 1"><span class='ocrx_word' id='word_1_14' title='bbox 447 2243 751 2275; x_wconf 50' lang='lat'>⁴*-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1336 4674">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1336 4674">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1336 4674; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1336 4674; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
